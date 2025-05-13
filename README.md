@@ -2,7 +2,7 @@
 
 I'm an aspiring Data Analyst with a background in software testing and a strong passion for uncovering insights through data. 
 
-After several years as a professional Software Tester I returned to school as a mature student having earned a Diploma in General Arts & Science from George Brown College, graduating with Dean's Honour Roll distinction and having one of my papers selected as an exemplar. My studies in the humanities not only helped me grow as a learner but also sparked an interest in Statistics and Probability. My coursework allowed me to hone key skills such as critical thinking, problem-solving, research, and the ability to communicate complex ideas clearly — skills that are essential for a successful career in data analytics.
+After several years as a professional Software Tester I returned to school and earned a Diploma in General Arts & Science from George Brown College, graduating with Dean's Honour Roll distinction and having one of my papers selected as an exemplar. My studies in the humanities not only helped me grow as a learner but also sparked an interest in Statistics and Probability. My coursework allowed me to hone key skills such as critical thinking, problem-solving, research, and the ability to communicate complex ideas clearly — skills that are essential for a successful career in data analytics.
 
 Currently, I'm completing the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) to deepen my skills in Python, R, SQL, and Excel. I'm passionate about data storytelling and using analysis to support smart, evidence-based decisions.
 
