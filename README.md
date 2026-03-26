@@ -1,20 +1,25 @@
-# 👋 Hello! How are you?
+## About Me
 
-### 📊 Growing Data Skills
-Here are some of the projects I'm working on or plan to upload soon:
+I am a Software QA Analyst focused on building clear, structured test documentation and ensuring software quality through functional and non-functional analysis. I enjoy working with requirements, identifying edge cases, and designing test scenarios that improve system reliability and user experience.
 
-- 🐍 Exploratory Data Analysis in Python: Investigating trends in public datasets  
-- 📊 Excel Dashboard for Sales Data: Interactive dashboard using slicers, pivot tables, and charts  
-- 🗂️ SQL Queries on Sample Data: Complex joins and aggregations  
-- 🔍 R Project: Visual and statistical analysis  
-- 🚧 More projects coming soon...
+---
 
+## Featured Projects
 
-### 🚀 What I’m Looking For
-I’m exploring opportunities in:
-- **Software Testing / QA Support**
-- **Junior Data Analysis**
-- **Data Quality & Validation Roles**
+### Login Flow Project
+QA documentation and test design for a secure login system covering authentication, validation, session management, and password reset flows.
+
+👉 [View Project](projects/login_flow/README.md)
+
+---
+
+## 🚀 What I’m Looking For
+I’m exploring opportunities as a:
+- **Software QA Analyst**
+- **Software Tester**
+- **QA Engineer**
+
+---
 
 ### 📫 Let’s Connect
 If you're looking for someone who bridges QA thinking with growing data skills and thrives in collaborative, Agile teams — I'd love to connect!
@@ -26,3 +31,4 @@ If you're looking for someone who bridges QA thinking with growing data skills a
 ---
 
 > 🛠️ This portfolio is a work in progress. I'm continuously adding new projects and improving older ones — check back soon!
+
