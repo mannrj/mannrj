@@ -1,29 +1,4 @@
-# 👋 Hello! I'm Ron
-
-I'm a **Software Tester** transitioning into **Data Analysis**, with a background in test design, manual test execution, and defect reporting. I’m passionate about clear communication, structured thinking, and building reliable, user-focused solutions.
-
-Currently, I'm completing the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) from Coursera to develop practical skills in:
-
-- ✅ Excel (PivotTables, Charts, Formulas)
-- ✅ SQL (Data Queries & Joins)
-- ✅ Python (Pandas, Data Cleaning)
-- ✅ Data Visualization (Matplotlib, Seaborn)
-
-I also bring experience as a **beginner-level tutor**, which helps me explain concepts clearly and support learning—skills I apply in both team settings and documentation.
-
-### 🔍 Quality Assurance Background
-- Manual testing of web applications  
-- Writing and executing test cases  
-- Logging and tracking bugs in tools like JIRA  
-- Functional, Regression, and Usability testing  
-- Test documentation and communication  
-- Working in **Agile/Scrum teams**, including daily stand-ups and sprint reviews
-
-### 💡 Soft Skills & Tools
-- Agile & Scrum Methodology  
-- Clear Communicator & Team Player  
-- Beginner Tutor (Supportive & Patient)  
-- Tools: JIRA, Excel, VS Code, Git, Chrome DevTools
+# 👋 Hello! How are you?
 
 ### 📊 Growing Data Skills
 Here are some of the projects I'm working on or plan to upload soon:
