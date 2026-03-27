@@ -7,7 +7,18 @@ I’m a Software QA Analyst focused on building clear, structured test documenta
 ## Featured Projects
 
 ### Login Flow Project
-QA documentation and test design for a secure login system covering authentication, validation, session management, and password reset flows.
+
+This project demonstrates my ability to design and execute end-to-end testing for a simple Python-based login application, along with foundational Python programming skills.
+
+#### Scope of Work
+
+✅ Created a Requirements document defining system behavior and validation rules  
+🟡 Developing a terminal-based login application in Python based on the requirements document  
+⬜ Building a Traceability Matrix linking requirements to test coverage  
+⬜ Designing test cases based on traceability and coverage needs  
+⬜ Executing test cases and validated system behavior  
+⬜ Producing a Test Summary report outlining results and overall quality status  
+⬜ Documenting and tracked defects with clear reporting  
 
 👉 [View Project](projects/login_flow/README.md)
 
