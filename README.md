@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Software QA Analyst focused on building clear, structured test documentation and ensuring software quality through functional and non-functional analysis. I enjoy working with requirements, identifying edge cases, and designing test scenarios that improve system reliability and user experience.
+I’m a Software QA Analyst focused on building clear, structured test documentation and ensuring quality through functional and non-functional analysis. I define testing scope and approach, apply risk-based thinking to prioritize effort, and work closely with requirements to identify edge cases and design effective test scenarios. I communicate clearly with stakeholders, take ownership of testing efforts, and help guide quality practices, defect management, and team delivery in Agile environments.
 
 ---
 
