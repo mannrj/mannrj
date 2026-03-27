@@ -25,15 +25,15 @@ This project demonstrates my ability to design and execute end-to-end testing fo
 ---
 
 ## 🚀 What I’m Looking For
-I’m exploring opportunities as a:
-- **Software QA Analyst**
-- **Software Tester**
-- **QA Engineer**
+I’m actively seeking opportunities as a:
+- Software QA Analyst  
+- Software Tester  
+- QA Engineer  
 
 ---
 
 ### 📫 Let’s Connect
-If you're looking for someone who bridges QA thinking with growing data skills and thrives in collaborative, Agile teams — I'd love to connect!
+If you're looking for someone who bridges QA thinking with growing data skills and thrives in collaborative Agile teams, I’d love to connect.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mannron/)  
 - 🧠 [Check out my Coursera progress](https://www.coursera.org/learner/ron-mann-8063)  
@@ -41,5 +41,10 @@ If you're looking for someone who bridges QA thinking with growing data skills a
 
 ---
 
-> 🛠️ This portfolio is a work in progress. I'm continuously adding new projects and improving older ones — check back soon!
+> 🛠️ This portfolio is a work in progress. I’m continuously adding new projects and improving older ones. Check back soon!
+
+
+
+
+
 
