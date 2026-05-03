@@ -11,4 +11,4 @@ Built an Excel-based expense tracker and reporting dashboard using structured ta
 
 ## 🔗 Project Access
 View the full project files and documentation on GitHub:
-https://github.com/mannrj/expense-tracker-dashboard
+https://github.com/mannrj/excel-expense-tracker-dashboard
