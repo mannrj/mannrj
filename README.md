@@ -6,7 +6,7 @@ Administration & Office Support professional focused on administrative support, 
 
 ## 📁 Projects
 
-### Expense Tracker & Reporting Dashboard (Excel) — In Progress
+### Expense Tracker & Reporting Dashboard (Excel)
 Built an Excel-based expense tracker and reporting dashboard using structured tables, Pivot Tables, and charts to support accurate data entry, categorisation, and analysis of spending trends. Demonstrates strong skills in Excel, data organisation, and reporting for office environments.
 
 View full project files and documentation on GitHub:  
