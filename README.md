@@ -1,6 +1,6 @@
-# Customer & Office Support | Administrative Support | Excel & Data Entry
+# Administrative and Operation Support | Excel & Data Entry
 
-Customer & Office Support professional focused on administrative support, Excel, and structured data management. Building Excel projects that demonstrate accuracy, organisation, and reporting skills for office-based environments.
+Administrative & Office Support professional focused on administrative support, Excel, and structured data management. Building Excel projects that demonstrate accuracy, organisation, and reporting skills for office-based environments.
 
 ---
 
